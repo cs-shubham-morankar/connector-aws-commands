@@ -22,7 +22,7 @@ Following enhancements have been made to the AWS Commands Connector in version 1
 
 ## Installing the connector
 
-<p>Use the <strong>Content Hub</strong> to install the connector. For the detailed procedure to install a connector, click <a href="https://docs.fortinet.com/document/fortisoar/0.0.0/installing-a-connector/1/installing-a-connector" target="_top">here</a>.</p><p>You can also use the <code>yum</code> command as a root user to install the connector:</p>
+<p>Use the <strong>Content Hub</strong> to install the connector. For the detailed procedure to install a connector, click <a href="https://docs.fortinet.com/document/fortisoar/0.0.0/installing-a-connector/1/installing-a-connector" target="_top">here</a>.</p><p>You can also use the <code>sudo yum</code> command to install the connector:</p>
 <pre>yum install cyops-connector-aws-commands</pre>
 
 ## Prerequisites to configuring the connector
